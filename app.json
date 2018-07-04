@@ -1,0 +1,6 @@
+{
+  "name": "Event Management App",
+  "description": "Event Management App",
+  "repository": "https://github.com/imranjdev/evento-client",
+  "keywords": ["node", "express", "boilerplate", "angular", "angular-2"]
+}
